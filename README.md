@@ -14,4 +14,4 @@
 
 [Connect via LinkedIn](https://linkedin.com/in/jonasgalvez)
 
-[Book me on weekends](https://fastify-vite.dev/consulting)
+[Book me on weekends](https://hire.jonasgalvez.com.br/consulting)
