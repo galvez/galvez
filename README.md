@@ -1,5 +1,5 @@
 
-<a href="https://hire.jonasgalvez.com.br/happy-little-monoliths">Buy my book<br><br><img width="65%" src="https://github.com/user-attachments/assets/3dc57da2-d28a-4e38-941d-53edb119ee81"></a>
+<a href="https://hire.jonasgalvez.com.br/happy-little-monoliths">Buy my book<br><br><img width="45%" src="https://github.com/user-attachments/assets/3dc57da2-d28a-4e38-941d-53edb119ee81"></a>
 
 - I write code and I write about code.
 - I specialise in **Node.js**, **Fastify** and **Vue** applications.
